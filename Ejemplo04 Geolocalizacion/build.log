@@ -1,0 +1,106 @@
+Logfile initialized
+[INFO] logfile = /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build.log
+[INFO] logfile = /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build.log
+[DEBUG] /Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py emulator Ejemplo04 Geolocalizacion /Users/Firestorm/Documents/Aptana Rubles/Android_SDK /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion org.fsl.titanium.gps 2 WVGA854 armeabi
+[DEBUG] /Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py simulator Ejemplo04 Geolocalizacion /Users/Firestorm/Documents/Aptana Rubles/Android_SDK /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion org.fsl.titanium.gps 2 WVGA854
+[INFO] Launching Android emulator...one moment
+[DEBUG] From: /Users/Firestorm/Documents/Aptana Rubles/Android_SDK/tools/emulator
+[DEBUG] SDCard: /Users/Firestorm/.titanium/android2.sdcard
+[DEBUG] AVD ID: 2
+[DEBUG] AVD Skin: WVGA854
+[DEBUG] AVD ABI: armeabi
+[DEBUG] SDK: /Users/Firestorm/Documents/Aptana Rubles/Android_SDK
+[INFO] Building Ejemplo04 Geolocalizacion for Android ... one moment
+[INFO] Titanium SDK version: 3.1.0 (04/15/13 18:45 57634ef)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] /Users/Firestorm/Documents/Aptana Rubles/Android_SDK/tools/emulator -avd titanium_2_WVGA854 -port 5560 -sdcard /Users/Firestorm/.titanium/titanium_2_WVGA854.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
+[DEBUG] org.fsl.titanium.gps installed? False
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/appicon.png => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/default.png => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/app.js => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/KS_nav_ui.png => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/KS_nav_ui.png
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/KS_nav_views.png => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/KS_nav_views.png
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/ui/common/FirstView.js => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/ui/common/FirstView.js
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/ui/handheld/android/ApplicationWindow.js => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/ui/handheld/android/ApplicationWindow.js
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/ui/handheld/ApplicationWindow.js => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/ui/handheld/ApplicationWindow.js
+[TRACE] COPYING CREATED FILE: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/ui/tablet/ApplicationWindow.js => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/ui/tablet/ApplicationWindow.js
+[DEBUG] LiveView not enabled
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/Ejemplo04GeolocalizacionActivity.java to javac build list
+[DEBUG] adding /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/Ejemplo04GeolocalizacionAppInfo.java to javac build list
+[DEBUG] adding /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/Ejemplo04GeolocalizacionApplication.java to javac build list
+[DEBUG] adding /Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/ApplicationStylesheet.java" "/Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/Ejemplo04GeolocalizacionActivity.java" "/Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/Ejemplo04GeolocalizacionAppInfo.java" "/Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/Ejemplo04GeolocalizacionApplication.java" "/Users/Firestorm/Documents/Titanium_Studio_Workspace/00 Aplicaciones de muestra/Ejemplo04 Geolocalizacion/build/android/gen/org/fsl/titanium/gps/R.java"
+[ERROR] Exception occured while building Android project:
+[ERROR] Traceback (most recent call last):
+[ERROR]   File "/Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py", line 2528, in <module>
+[ERROR]     builder.build_and_run(False, avd_id, debugger_host=debugger_host, profiler_host=profiler_host)
+[ERROR]   File "/Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py", line 2285, in build_and_run
+[ERROR]     self.push_deploy_json()
+[ERROR]   File "/Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py", line 1954, in push_deploy_json
+[ERROR]     sdcard_available = self.wait_for_sdcard()
+[ERROR]   File "/Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py", line 1907, in wait_for_sdcard
+[ERROR]     if 'SDCARD READY' in output:
+[ERROR] TypeError: argument of type 'NoneType' is not iterable

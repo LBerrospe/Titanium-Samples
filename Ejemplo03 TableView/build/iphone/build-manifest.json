@@ -1,0 +1,22 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/iphone",
+	"appGuid": "d05325f4-5dd1-453d-b41d-476cd9857be1",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "57634ef",
+	"name": "Ejemplo03 TableView",
+	"id": "org.fsl.titanium.tableview",
+	"analytics": true,
+	"publisher": "fernandocarrillocastro",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2012 by fernandocarrillocastro",
+	"guid": "d05325f4-5dd1-453d-b41d-476cd9857be1",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}

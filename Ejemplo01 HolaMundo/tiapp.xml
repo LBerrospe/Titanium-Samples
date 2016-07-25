@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <property name="acs-oauth-secret-production" type="string">ML7to6ly1dBewo805auKluN7onjmpPep</property>
+    <property name="acs-oauth-key-production" type="string">pRp9y8VolQ55mEUsjZZ2Azoexi8etkhC</property>
+    <property name="acs-api-key-production" type="string">5dZ28YCB0gOnteI7neYLEJZW35eC7sgj</property>
+    <property name="acs-oauth-secret-development" type="string">2d4Lubm6AuMbLizEXp44O3oFHQDRqX5N</property>
+    <property name="acs-oauth-key-development" type="string">rY7qLh5fOdHCNQAKfNSyoqUPRsMH4CRD</property>
+    <property name="acs-api-key-development" type="string">hBjqLGHQwQD7JF9KSAYQcxurXxYGXzT4</property>
+    <deployment-targets>
+        <target device="tizen">false</target>
+        <target device="mobileweb">true</target>
+        <target device="iphone">true</target>
+        <target device="ipad">true</target>
+        <target device="android">true</target>
+        <target device="blackberry">false</target>
+    </deployment-targets>
+    <sdk-version>3.1.0.GA</sdk-version>
+    <id>org.fsl.titanium.holamundo</id>
+    <name>Ejemplo01 HolaMundo</name>
+    <version>1.0</version>
+    <publisher>fernandocarrillocastro</publisher>
+    <url>http://</url>
+    <description>not specified</description>
+    <copyright>2012 by fernandocarrillocastro</copyright>
+    <icon>appicon.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+    <guid>2925e951-6f71-47b4-8105-42c4c8e8a1b4</guid>
+    <property name="ti.ui.defaultunit">system</property>
+    <iphone>
+        <orientations device="iphone">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+        </orientations>
+        <orientations device="ipad">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+            <orientation>Ti.UI.UPSIDE_PORTRAIT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_LEFT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_RIGHT</orientation>
+        </orientations>
+    </iphone>
+    <android xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <mobileweb>
+        <precache/>
+        <splash>
+            <enabled>true</enabled>
+            <inline-css-images>true</inline-css-images>
+        </splash>
+        <theme>default</theme>
+    </mobileweb>
+    <modules/>
+</ti:app>

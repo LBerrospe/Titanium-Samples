@@ -1,0 +1,21 @@
+Logfile initialized
+[INFO] logfile = /Users/Firestorm/Desktop/GitHub/Titanium/Ejemplo03 TableView/build.log
+[INFO] logfile = /Users/Firestorm/Desktop/GitHub/Titanium/Ejemplo03 TableView/build.log
+[DEBUG] /Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py simulator Ejemplo03 TableView /Users/Firestorm/Documents/Aptana Rubles/Android_SDK /Users/Firestorm/Desktop/GitHub/Titanium/Ejemplo03 TableView org.fsl.titanium.tableview 2 WVGA854
+[DEBUG] /Users/Firestorm/Library/Application Support/Titanium/mobilesdk/osx/3.1.0.GA/android/builder.py emulator Ejemplo03 TableView /Users/Firestorm/Documents/Aptana Rubles/Android_SDK /Users/Firestorm/Desktop/GitHub/Titanium/Ejemplo03 TableView org.fsl.titanium.tableview 2 WVGA854 armeabi
+[INFO] Launching Android emulator...one moment
+[INFO] Building Ejemplo03 TableView for Android ... one moment
+[DEBUG] From: /Users/Firestorm/Documents/Aptana Rubles/Android_SDK/tools/emulator
+[DEBUG] SDCard: /Users/Firestorm/.titanium/android2.sdcard
+[DEBUG] AVD ID: 2
+[DEBUG] AVD Skin: WVGA854
+[DEBUG] AVD ABI: armeabi
+[DEBUG] SDK: /Users/Firestorm/Documents/Aptana Rubles/Android_SDK
+[INFO] Titanium SDK version: 3.1.0 (04/15/13 18:45 57634ef)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[DEBUG] /Users/Firestorm/Documents/Aptana Rubles/Android_SDK/tools/emulator -avd titanium_2_WVGA854 -port 5560 -sdcard /Users/Firestorm/.titanium/titanium_2_WVGA854.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[INFO] Android Emulator has exited
